@@ -1,5 +1,0 @@
-if not game:IsLoaded() then
-    game.Loaded:Wait()
-end
-wait(8.25)
-game.Players.LocalPlayer:Kick("Mod Team has BANNED you!")
